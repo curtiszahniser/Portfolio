@@ -61,7 +61,7 @@ p {
 .background-image {
     height: 300px;
     width: 300px;
-    background-image: url("/Users/curtiszahniser/bootcamp/Portfolio/assets/selfportrait.jpg");
+    background-image: url("http://curtiszahniser.github.io/Portfolio/assets/selfportrait.jpg");
     background-size: cover;
     margin-bottom: 100px;
     margin-left: 100px;
